@@ -1,0 +1,1 @@
+Este projeto foi elaborado como parte do curso oferecido pela Fundação Bradesco. Trata-se de uma página web simples com a funcionalidade de mudança de tema, desenvolvida utilizando HTML, CSS e JavaScript. A página apresenta um botão que permite ao usuário alternar entre os temas claro e escuro.
